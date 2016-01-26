@@ -1,0 +1,4 @@
+pwd
+git init
+git add .
+git init -m "Initial commit"
